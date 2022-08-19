@@ -4,9 +4,10 @@
 ### **Año:** 2022
 
 ### **Curso:** 2D
-<br>
 
 [Link a Github](https://github.com/Defeeeee/Tp-tecno)
+
+<br>
 
 ## **Primer Ejercicio**
 
