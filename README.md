@@ -6,6 +6,8 @@
 ### **Curso:** 2D
 <br>
 
+[Link a Github](https://github.com/Defeeeee/Tp-tecno)
+
 ## **Primer Ejercicio**
 
 ```c++
